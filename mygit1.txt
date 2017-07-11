@@ -3,3 +3,4 @@ now i change it for first time
 this is for branch dev
 now i merge two branches for this sentence(master|merging)
 now add dev for noff
+now i push master but fail so i back to dev
